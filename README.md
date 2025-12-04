@@ -1,0 +1,2 @@
+-A repository to practice the functionalities of the Manim library
+-Focused on animating basic Python concepts such as lists and loops
